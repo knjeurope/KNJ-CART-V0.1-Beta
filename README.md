@@ -1,6 +1,11 @@
 # KNJ-CART-V0.1-Beta
 100% Open Source ecommerce shopping cart (Revolution of the commerce 2017)
 
+# DEMO Testing is avialable to : 
+* Cart & order system : **[Shopping Cart System DEMO](http://www.knjhair.fr/KNJCart/template/checkout/)**
+* Customer Portal : **soon**
+* Admin Portal : **soon** - (UserName : **demotest** | Password : **demotest**)
+* Front shop : **soon** 
 
 French Project
 
